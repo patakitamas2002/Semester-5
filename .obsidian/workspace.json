@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "2a2385843d7befc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd7e2859216594a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97ce272f6a45a793",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Kiadvany/01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e7bbc2ae3e350aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8a09472c89ac4d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dee094ae8f00ecf4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b1e5b0908781a74a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "521c55f95351db66",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "573946f3a4d9e041",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a685f1f8d0d21fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a45f85687769716",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Kiadvany/01.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "238bb55b162f413a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Kiadvany/01.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff93476a0a5877d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "21f02baaeafab7d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Kiadvany/01.md"
+              }
+            }
+          },
+          {
+            "id": "56e404cd1a166638",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "97ce272f6a45a793",
+  "lastOpenFiles": [
+    "Semester-5",
+    "Notes/Grafika/01.md",
+    "Notes/Kiadvany/01.md",
+    "Notes/Kiadvany",
+    "Notes/Keretrendszer/01 Keret note.md",
+    "Notes/Op Kutatás/01.md",
+    "Notes/Mobilprog/01 note.md",
+    "Other stuffs/Server rules.md",
+    "Other stuffs",
+    "Notes/Grafika",
+    "Notes/Op Kutatás",
+    "Notes/Forditoprog/01.md",
+    "asd.com.md",
+    "Notes/Forditoprog",
+    "Notes/Mobilprog",
+    "Notes/Keretrendszer",
+    "Notes"
+  ]
+}
