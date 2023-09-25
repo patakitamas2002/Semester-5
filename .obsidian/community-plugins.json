@@ -1,7 +1,6 @@
 [
   "table-editor-obsidian",
-  "dataview",
   "obsidian-excalidraw-plugin",
-  "obsidian-git",
-  "obsidian-completr"
+  "obsidian-completr",
+  "obsidian-git"
 ]
