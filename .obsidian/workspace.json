@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Grafika/Gyak/HF.md",
+                "file": "Notes/Op Kutatás/03.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "ad312b864cce750f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-10-04 10.47.57.excalidraw.md"
               }
             }
           }
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Grafika/Gyak/HF.md",
+                "file": "Notes/Op Kutatás/03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Grafika/Gyak/HF.md",
+                "file": "Notes/Op Kutatás/03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Grafika/Gyak/HF.md"
+                "file": "Notes/Op Kutatás/03.md"
               }
             }
           },
@@ -169,38 +179,41 @@
   },
   "active": "464130f9829d1ffe",
   "lastOpenFiles": [
+    "Notes/Op Kutatás/02.md",
+    "Notes/Op Kutatás/03.md",
+    "Notes/Op Kutatás/01.md",
+    "Notes/Forditoprog/01.md",
+    "Notes/RTT/Gyak/01.md",
+    "Notes/RTT/Gyak/02.md",
     "Notes/Grafika/Gyak/HF.md",
+    "Notes/RTT/EA/03.md",
+    "Excalidraw/Drawing 2023-10-04 10.47.57.excalidraw.md",
+    "Notes/Kutmód/01.md",
+    "Notes/Kutmód/02.md",
+    "Notes/Grafika/Előadások/05 - Görbék a számítógépes grafikában.pdf",
+    "Notes/Statisztika/Untitled.md",
+    "Other stuffs/test.md",
+    "Notes/RTT/EA/02.md",
+    "Notes/Kiadvany/01.md",
+    "Notes/Grafika/Előadások/01 - Raszteres.pdf",
+    "Notes/Grafika/Előadások/03 - Kitöltő algoritmusok.pdf",
     "Notes/Grafika/Gyak",
     "Excalidraw/tdd01.excalidraw.md",
     "Excalidraw/tdd02.excalidraw.md",
-    "Notes/Kutmód/02.md",
     "Notes/Kutmód/PDF/Társadalomtudományi kutatások megközelítési módjai.pdf",
     "Notes/Kutmód/PDF/Bevezetés a Kutatásmódszertanba_ppt.pdf",
-    "Notes/Kutmód/01.md",
     "Notes/RTT/EA/01.md",
     "Notes/Kutmód/PDF",
     "Notes/Kutmód/New folder",
-    "Notes/Statisztika/Untitled.md",
     "Notes/Grafika/01.md",
-    "Notes/Kiadvany/01.md",
-    "Notes/Forditoprog/01.md",
     "Notes/Grafika/Előadások/02 - Vágó algoritmusok.pdf",
-    "Notes/Grafika/Előadások/03 - Kitöltő algoritmusok.pdf",
-    "Notes/Grafika/Előadások/05 - Görbék a számítógépes grafikában.pdf",
     "Notes/Grafika/Előadások/04 - Élsimító algoritmusok.pdf",
     "Notes/Grafika/02.md",
-    "Notes/Grafika/Előadások/Pszeudokódok.docx",
-    "Notes/Op Kutatás/01.md",
     "Excalidraw/opkut02.excalidraw.md",
     "Excalidraw/opkut01.excalidraw.md",
     "Notes/Keretrendszer/01 Keret note.md",
-    "Notes/RTT/Gyak/01.md",
     "Notes/Mobilprog/01 note.md",
     "Excalidraw/Drawing 2023-09-13 11.10.41.excalidraw.md",
-    "Notes/Neu Net/01.md",
-    "Excalidraw/Drawing 2023-09-13 10.13.40.excalidraw.md",
-    "Notes/CPP/01.md",
-    "Other stuffs/Server rules.md",
-    "asd.com.md"
+    "Notes/Neu Net/01.md"
   ]
 }
