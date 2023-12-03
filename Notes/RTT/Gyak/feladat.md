@@ -1,0 +1,1 @@
+crud művelet, webalkalmazás containerben

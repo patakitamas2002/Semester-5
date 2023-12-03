@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "eee4c5cdaa356807",
+        "id": "f146247f3388ab8d",
         "type": "tabs",
         "children": [
           {
-            "id": "1da25f25abf1fbc8",
+            "id": "d8b4037510548882",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Grafika/Gyak/info.md",
-                "mode": "preview",
+                "file": "Notes/RTT/Gyak/10.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Grafika/Gyak/info.md",
+                "file": "Notes/RTT/Gyak/10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Grafika/Gyak/info.md",
+                "file": "Notes/RTT/Gyak/10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Grafika/Gyak/info.md"
+                "file": "Notes/RTT/Gyak/10.md"
               }
             }
           },
@@ -167,43 +167,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1da25f25abf1fbc8",
+  "active": "d8b4037510548882",
   "lastOpenFiles": [
-    "Notes/Statisztika/Docker Desktop Installer.exe",
-    "Notes/Statisztika/Docker Desktop Installer.exe.opdownload",
-    "Notes/RTT/Gyak/zh.md",
-    "Notes/Grafika/Gyak/info.md",
-    "Notes/Op Kutatás/03.md",
-    "Notes/Statisztika/Matematikai_statisztika_gyakorlatok_osszefoglalo.pdf",
-    "Notes/Grafika/Előadások/08 - Bézier, B-Spline.pdf",
-    "Notes/Op Kutatás/04.md",
-    "Notes/Op Kutatás/02.md",
+    "Notes/RTT/EA/06.md",
+    "Notes/RTT/EA/05.md",
+    "Notes/RTT/EA/test.md",
+    "Notes/RTT/EA/beugro.md",
+    "Notes/RTT/Gyak/feladat.md",
     "Notes/RTT/Gyak/02.md",
     "Notes/RTT/Gyak/01.md",
+    "Notes/RTT/Gyak/10.md",
+    "Untitled.md",
+    "Notes/CPP/01.md",
+    "Notes/Op Kutatás/09 2023-11-28 08.19.27.excalidraw.md",
+    "Notes/Op Kutatás/09 2023-11-28 09.01.25.excalidraw.md",
+    "Notes/Op Kutatás/09.md",
+    "Notes/Op Kutatás/08.md",
     "Notes/Statisztika/Untitled 1.md",
     "Notes/Statisztika/Untitled.md",
+    "Notes/Neu Net/01.md",
     "Notes/RTT/EA/04.md",
-    "pastebin.com/YNEzuKA1.md",
-    "pastebin.com",
-    "Notes/RTT/EA/DIP_fejezet_8.docx.pdf",
-    "Notes/RTT/EA/test.md",
-    "Notes/RTT/EA/Untitled",
-    "Excalidraw/rtt02.md",
-    "Notes/Op Kutatás/01.md",
-    "Excalidraw/rtt01.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-13 11.10.41.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-04 10.47.57.excalidraw.md",
-    "Excalidraw/tdd01.excalidraw.md",
-    "Excalidraw/tdd02.excalidraw.md",
+    "Notes/Op Kutatás/PDF/Hozzárendelési feladat_.pdf",
+    "Notes/Grafika/Előadások/10 - Testmodellezés.pdf",
+    "Notes/Grafika/Előadások/11 - Felületek megjelenítése.pdf",
+    "Notes/Op Kutatás/PDF/opkutszoveg_full.pdf",
+    "Notes/Op Kutatás/PDF/mso734.tmp",
+    "Notes/Op Kutatás/PDF/Opkut_csakgyak_TL.pdf",
+    "Notes/Op Kutatás/PDF/Opkut_csakgyak_levelező.pdf",
+    "Notes/Op Kutatás/PDF/grafikus.pdf",
+    "Notes/Op Kutatás/PDF/Szimplex.pdf",
+    "Notes/Op Kutatás/PDF/Szállítási feladat.pdf",
+    "Notes/Op Kutatás/07 2023-11-14 08.44.49.excalidraw.md",
+    "Notes/Op Kutatás/07.md",
+    "Notes/Op Kutatás/06.md",
+    "Notes/Forditoprog/01.md",
     "Notes/RTT/EA/03.md",
-    "Notes/RTT/EA/01.md",
-    "Notes/RTT/EA/02.md",
-    "Notes/Kiadvany/01.md",
-    "Notes/Grafika/01.md",
-    "Notes/CPP/01.md",
-    "Notes/Grafika/Előadások/07 - Hermite-ív.pdf",
-    "Notes/Grafika/Előadások/05 - Görbék a számítógépes grafikában.pdf",
-    "Notes/Grafika/Előadások/01 - Raszteres.pdf",
-    "Notes/Grafika/Előadások/03 - Kitöltő algoritmusok.pdf"
+    "Notes/Op Kutatás/05.md",
+    "Notes/Op Kutatás/06 2023-11-07 09.30.13.excalidraw.md",
+    "Notes/Op Kutatás/06 2023-11-07 09.18.09.excalidraw.md"
   ]
 }
