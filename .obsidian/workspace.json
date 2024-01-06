@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/RTT/EA/05.md",
+                "file": "pastebin.com/YNEzuKA1.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bb89452026d31f5a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/RTT/EA/05.md",
+                "file": "pastebin.com/YNEzuKA1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/RTT/EA/05.md",
+                "file": "pastebin.com/YNEzuKA1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/RTT/EA/05.md"
+                "file": "pastebin.com/YNEzuKA1.md"
               }
             }
           },
@@ -180,8 +169,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dee094ae8f00ecf4",
+  "active": "d2c75653309f0b48",
   "lastOpenFiles": [
+    "Notes/Forditoprog/Beadando_feladat_specifikacioja_Fordprog_2023.pdf",
+    "Notes/RTT/EA/05.md",
     "Notes/Kutmód/01.md",
     "Notes/Op Kutatás/05.md",
     "Notes/Op Kutatás/02.md",
@@ -195,7 +186,6 @@
     "Notes/RTT/Gyak/feladat.md",
     "Notes/RTT/Gyak/10.md",
     "Notes/RTT/EA/06.md",
-    "Notes/RTT/EA/05.md",
     "Notes/RTT/EA/test.md",
     "Notes/RTT/EA/beugro.md",
     "Untitled.md",
@@ -215,8 +205,6 @@
     "Notes/Op Kutatás/PDF/Opkut_csakgyak_TL.pdf",
     "Notes/Op Kutatás/PDF/Opkut_csakgyak_levelező.pdf",
     "Notes/Op Kutatás/PDF/grafikus.pdf",
-    "Notes/Op Kutatás/PDF/Szimplex.pdf",
-    "Notes/Op Kutatás/PDF/Szállítási feladat.pdf",
-    "Notes/Op Kutatás/07 2023-11-14 08.44.49.excalidraw.md"
+    "Notes/Op Kutatás/PDF/Szimplex.pdf"
   ]
 }
